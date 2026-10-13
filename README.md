@@ -2,6 +2,8 @@
 
 A simple Streamlit app I built to decide which feature a product should build first.
 
+**[Try the live app](https://pantrypal-matrix.streamlit.app/)**
+
 The example product is **PantryPal**, a food app that helps people waste less. The app compares five possible features and ranks them using a weighted decision matrix.
 
 ## How it works
